@@ -1,0 +1,5 @@
+master_gcs:
+  - master1
+
+slave_gcs:
+  - slave1
